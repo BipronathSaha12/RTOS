@@ -137,4 +137,4 @@ Each task has a simulated `cpu_context_t` containing 16 general-purpose register
 
 ## License
 
-This project is provided for educational purposes.
+This project is under [MIT LICENSE] (https://github.com/BipronathSaha12/RTOS/blob/main/LICENSE) 
